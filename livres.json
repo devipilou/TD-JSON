@@ -1,0 +1,32 @@
+[
+  {
+    "titre": "Un roi sans divertissement",
+    "annee": "1947",
+    "genre": "mystère",
+    "auteur": {
+      "nom": "Giono",
+      "prenom": "Jean"
+    }
+  },
+
+  {
+    "titre": "Les Misérables",
+    "annee": "1862",
+    "genre": "fiction historique",
+    "auteur": {
+      "nom": "Hugo",
+      "prenom": "Victor"
+    }
+  },
+
+  {
+    "titre": "Les métamorphoses",
+    "annee": "IIᵉ siècle 1958 La Pléiade",
+    "genre": "philosophie",
+    "auteur": {
+      "nom": "Afulay (Apulée)",
+      "prenom": "Lucius"
+    }
+  }
+  
+]
